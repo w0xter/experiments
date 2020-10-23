@@ -1,0 +1,22 @@
+{
+"name":"Prime Pattern",
+"shortDescription":"A cool pattern where we print a segment for each number from 0 to N, when the number of the segment is Prime we rotate these segment 90 degres.",
+"images":[
+	{
+	"title":"Prime Pattern from red to yellow",
+	"caption":"In this case the gradient is generated fullfilling every segment with the corresponding representation of the associated number between the values 0 (red in HSL) and 54 (yellow in HSL).",
+	"url":""
+
+	}, 
+	{
+	"title":"Purple Gradient",
+	"caption":"In this case the gradient it's generated using GIMP, first I've created a simple b&w pattern and then I've process it with GIMP.",
+	"url":""
+	},
+	{
+		"title":"Simple Pattern",
+		"caption":"The original pattern in b&w. You can try to make your own designs with this temaplate!.",
+		"url":""
+	}
+]
+}
